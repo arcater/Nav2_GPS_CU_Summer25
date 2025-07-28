@@ -14,7 +14,7 @@ This repository contains:
 
 Related repositories to assist with running/testing GPS-based navigation with Nav2:
 - [turtlebot_gps](https://github.com/arcater/turtlebot_gps)
-- [ISRoverNetworkNMEA] (https://github.com/arcater/ISRoverNetworkNMEA)
+- [ISRoverNetworkNMEA](https://github.com/arcater/ISRoverNetworkNMEA)
 - [is_gps_publisher_ros2](https://github.com/ChesterMK7/is_gps_publisher_ros2)
 - [py_get_init_pos](https://github.com/ChesterMK7/py_get_init_pos)
 
